@@ -20,7 +20,7 @@
 * Vendas por Produtos
 * Vendas por Cliente
 
-# 4. Dashboard de OLrçamento #
+# 4. Dashboard de Orçamento #
 **Indicadores de Performance e Evolução:** 
 *  Performance e KPI
 * Percentual de Consumo 
