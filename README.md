@@ -6,7 +6,7 @@
 * Total Investtido
 * Percentual de Retorno
 
-# 2.Dashboard Controle de Salários #
+# 2. Dashboard Controle de Salários #
 **Controle e análise de salários por setor:** 
 * Salário por Departamento
 * Custo Total de Salários
@@ -42,7 +42,7 @@
 * Vendas por Cliente
 * Custo, Quantidade de Vendas e Clientes e Total de Vendas
 
-# 7.Dashboard Loja ABC #
+# 7. Dashboard Loja ABC #
 **Análise Geral:**
 * Vendas por Estado
 * Vendas por Cliente
